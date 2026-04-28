@@ -135,8 +135,4 @@ cd zepto-SQL-data-analysis-project
 ---
 
 ## 🚀 Stay Connected 
-If you enjoyed this project and want to keep learning and growing as a data analyst, let's stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
-
-- 🎥 **YouTube:** [Amlan Mohanty](https://www.youtube.com/@amlanmohanty) — Beginner-friendly tutorials, real-world projects, job and career advice
-- 📺 **Instagram:** [data.drool](https://www.instagram.com/data.drool) — Quick SQL tips, data memes, and behind-the-scenes content
-- 💼 **LinkedIn:** [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty) — Let's connect professionally and grow your data career
+If you enjoyed this project and want to keep learning and growing as a data analyst, let's stay in touch! 
